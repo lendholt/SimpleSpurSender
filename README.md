@@ -1,4 +1,4 @@
-org.fosslab.spurtracer.sender
+de.lendholt.spurtracer.sender
 =============================
 This is a simple java implementation of a spurtracer (http://spurtracer.sourceforge.net/) sender/client. 
 There are no external dependencies. Java6 required. 
