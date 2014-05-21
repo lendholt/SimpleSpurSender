@@ -1,6 +1,8 @@
-de.lendholt.spurtracer.sender
-=============================
-This is a simple java implementation of a spurtracer (http://spurtracer.sourceforge.net/) sender/client. 
+SimpleSpurSender
+
+This is a simple java implementation of a sender/client for spurtracer. 
+See: https://github.com/lwindolf/SpurTracer
+
 There are no external dependencies. Java6 required. 
 
 This program is free software; you can redistribute it and/or modify
