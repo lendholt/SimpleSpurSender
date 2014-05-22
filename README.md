@@ -1,5 +1,3 @@
-SimpleSpurSender
-
 Introduction
 ============
 This is a simple java implementation of a sender/client for spurtracer. 
@@ -15,11 +13,11 @@ Just run maven.
 
 Project History
 ===============
-This program was developed within the context of the following 
-publicly funded research projects:
+This program was developed within the context of the following research 
+projects:
  - DEWS, funded by the 6th Framework Programme of the European Union,
    Grant Agreement 045453, 2007 - 2010, Website: http://www.dews-online.org
- - TRIDEC, funden by the 7th Framework Programme of the European Uniton,
+ - TRIDEC, funded by the 7th Framework Programme of the European Uniton,
    Grant Agreement 258723, 2010 - 2013, Website: http://www.tridec-online.eu
 
 Both projects are not longer active. Websites will probably shut down. 
